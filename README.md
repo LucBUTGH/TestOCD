@@ -1,5 +1,7 @@
 #Partie 3
 
+## Diagramme[https://dbdiagram.io/d/67bdc5b9263d6cf9a0667efb]
+
 ## Évolution des Données
 
 ### Propositions de Modifications
@@ -16,4 +18,4 @@
 
 ## Conclusion
 
-Cette structure de base de données permet de gérer les propositions de modifications et leur validation par la communauté, assurant ainsi l'intégrité des données et empêchant les modifications malveillantes. Vous pouvez copier la syntaxe ci-dessus dans [dbdiagram.io](https://dbdiagram.io/) pour visualiser le diagramme de la base de données.
+Cette structure de base de données permet de gérer les propositions de modifications et leur validation par la communauté, assurant ainsi l'intégrité des données et empêchant les modifications malveillantes.
